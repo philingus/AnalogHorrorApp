@@ -1,0 +1,7 @@
+torch
+diffusers
+transformers
+gradio
+Pillow
+opencv-python
+numpy
